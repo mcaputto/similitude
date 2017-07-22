@@ -20,8 +20,8 @@ make
 
 ## Usage
 
-`similitude` will compare lines in `arg[1]` and`arg[2]` and print the edit
-distances to `stdout`.
+`similitude` will compare lines in two files and print the edit distances to
+`stdout`.
 
 ## Example
 
