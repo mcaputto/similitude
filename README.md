@@ -47,8 +47,8 @@ pip install -r requirements.txt
 
 ### Usage
 
-`similitude.py` will compare lines in `arg[1]` and`arg[2]` and load the
-edit distances into a [pandas](https://pandas.pydata.org) dataframe.
+`similitude.py` will compare lines in two files and load the edit distances
+into a [pandas](https://pandas.pydata.org) dataframe.
 
 ### Example
 
